@@ -1,4 +1,4 @@
 MazeSolver
 ==========
 
-A maze solver that incorporates stacks. 
+A maze solver that incorporates stacks and recursion. 
